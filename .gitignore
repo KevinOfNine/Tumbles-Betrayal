@@ -1,14 +1,5 @@
 # Ignore files with extension `.exe`
 *.exe
-*.pak
-
-# Ignore `bin` dir and locales
-
-bin/
-locales/
-# or
-*Tumbles-Betrayal/[Bb]in/*
-*Tumbles-Betrayal/[Bb]ackups/*
 
 # Unignore all `.exe` in `bin` dir
 !*/bin/*.exe
