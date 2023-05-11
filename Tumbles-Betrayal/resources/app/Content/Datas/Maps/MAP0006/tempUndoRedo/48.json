@@ -1,1 +1,1 @@
-{"states":[{"after":{},"afterT":0,"before":{"t":[1,0]},"beforeT":1,"pos":[52,0,0,27,0]}]}
+{"states":[{"after":{},"afterT":0,"before":{"l":true,"r":true,"sid":1},"beforeT":11,"pos":[52,0,0,16,0]},{"after":{},"afterT":0,"before":{"t":[0,0]},"beforeT":1,"pos":[52,1,0,16,0]},{"after":{},"afterT":0,"before":{"r":true,"sid":1},"beforeT":11,"pos":[53,0,0,16,0]},{"after":{},"afterT":0,"before":{"t":[0,0]},"beforeT":1,"pos":[53,1,0,16,0]}]}
