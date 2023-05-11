@@ -2,8 +2,10 @@
 *.exe
 *.pak
 
-# Ignore `bin` dir
+# Ignore `bin` dir and locales
+
 bin/
+locales/
 # or
 *Tumbles-Betrayal/[Bb]in/*
 *Tumbles-Betrayal/[Bb]ackups/*
