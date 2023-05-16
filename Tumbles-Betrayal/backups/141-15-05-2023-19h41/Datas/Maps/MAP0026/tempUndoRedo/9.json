@@ -1,0 +1,1 @@
+{"states":[{"after":{"sid":2,"ws":1},"afterT":11,"before":{"l":true,"sid":2,"t":true},"beforeT":11,"pos":[16,0,0,12,0]},{"after":{},"afterT":0,"before":{"t":[0,7]},"beforeT":1,"pos":[16,1,0,12,0]},{"after":{"t":[0,7]},"afterT":1,"before":{},"beforeT":0,"pos":[16,1,0,12,0]}]}
